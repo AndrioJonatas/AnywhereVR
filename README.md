@@ -25,18 +25,20 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - RiftCat (VR Cardboard +)
 - iVRy (VR Cardboard +)
 - Nolo (VR Cardboard +)
-- REXR VR
-- owoTrack
+- Big Screen
 - Opentrack
 
+° Comments:
 
 @ Advanced
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
 - SideQuest
-- Big Screen
+
 - ALVR (Gear VR and Oculus Go/Quest) "Polygraphene ou JackD83"
+- REXR VR
+- owoTrack
 - LIV TV VR
 
 
