@@ -102,7 +102,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 
 # Donations:
-Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ "This is for free access and social projects! Inform the email... Thank you!!!"
+Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ "This is for free access and social projects! Thank you!!!"
 
 "Project by **Kings Cloud**"
 CEO: **Andrio Jonatas**
