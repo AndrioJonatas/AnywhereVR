@@ -2,7 +2,7 @@
 VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 - All basic opinions are based on my tests and research to play VR anywhere.
-- Soon I will be showing you all about what I can do with these things.
+- I'll be showing everyone what I can do with these things.
 
 # Which Best ML Body Tracker?
 
@@ -102,7 +102,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 
 # Donations:
-Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ
+Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ "This is for free access and social projects! Inform the email... Thank you!!!"
 
 "Project by **Kings Cloud**"
 CEO: **Andrio Jonatas**
