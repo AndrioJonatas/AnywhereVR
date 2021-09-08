@@ -1,7 +1,8 @@
 # AnywhereVR
 VR anywhere, streaming with basic stuff!
 
-"Project sponsored by Kings Cloud - CEO: Andrio Jonatas"
+"Project sponsored by Kings Cloud"
+CEO: Andrio Jonatas
 https://www.kingscloud.com.br/
 
 # Which Best ML Body Tracker?
