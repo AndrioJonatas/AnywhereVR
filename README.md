@@ -105,6 +105,6 @@ Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 # Donations:
 Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ
 
-"Project by **Kings Cloud"****
+"Project by **Kings Cloud**"
 CEO: **Andrio Jonatas**
 https://www.kingscloud.com.br/
