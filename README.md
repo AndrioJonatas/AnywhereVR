@@ -13,6 +13,9 @@ VR anywhere, streaming with basic stuff!
 
 # What is the best app?
 ° Basic
+- Parsec (Video Streaming)
+- Desktop Vision (Video Streaming)
+- Reemo (Video Streaming)
 - Driver4VR (WalkinVR)
 - AprilTag VR FullBody Tracker
 - RiftCat (VR Cardboard +)
