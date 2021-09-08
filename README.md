@@ -10,9 +10,9 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 **@ Basic**
 - Mediapipe
 
-° **Comments:**
+**° Comments:**
 
-@ **Advanced**
+**@ Advanced**
 - PoseNet
 - OpenPose
 - Movenet
@@ -21,10 +21,10 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - XNect
 - FrankMocap
 
-° **Comments:**
+**° Comments:**
 
 # What is the best app?
-@ **Basic**
+**@ Basic**
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
 - Desktop Vision (Video Streaming)
@@ -36,9 +36,9 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - Big Screen
 - Opentrack
 
-° **Comments:
+**° Comments:**
 
-@ **Advanced
+**@ Advanced**
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
@@ -48,17 +48,17 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - owoTrack
 - LIV TV VR
 
-° **Comments:
+**° Comments:**
 
 # What is the best Mod's and Plugin's?
-@ **Basic
+**@ Basic**
 - KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
 
-° **Comments:
+**° Comments:**
 
-@ **Advanced
+**@ Advanced**
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
 - GTFO VR Plugin
