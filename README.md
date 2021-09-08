@@ -12,10 +12,12 @@ VR anywhere, streaming with basic stuff!
 - FrankMocap
 
 # What is the best app?
+- ° Basic
 - VorpX
 - Virtual Desktop (VR PC)
 - Driver4VR (WalkinVR)
-- OVRdrop
+- ° Advanced
+-  OVRdrop
 - SideQuest
 - Big Screen
 - ALVR (Gear VR and Oculus Go/Quest) "Polygraphene ou JackD83"
@@ -32,18 +34,17 @@ VR anywhere, streaming with basic stuff!
 - REXR
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
-- Zerotier (APK)
+- Zerotier (apk)
 - KinectToVR
 
 # What is the best VR Headset?
-- tVR
 - Oculus Quest
 - Oculus Rift S
 - Valve Index
 - Sony PlayStation VR
 - Samsung Odyssey+
 - HTC Vive Cosmos
-- 
+
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/videos
 
