@@ -71,7 +71,7 @@ VR anywhere, streaming with basic stuff!
 - Leap Motion
 
 # See what I've been doing:
-Youtube: https://www.youtube.com/c/KingsCloud/videos
+Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 
 # Donations:
 Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ
