@@ -16,6 +16,7 @@ VR anywhere, streaming with basic stuff!
 - Driver4VR (WalkinVR)
 - RiftCat (VR Cardboard +)
 - iVRy (VR Cardboard +)
+- Nolo (VR Cardboard +)
 - REXR VR
 - owoTrack
 - Opentrack
