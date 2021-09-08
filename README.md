@@ -4,12 +4,12 @@ VR anywhere, streaming with basic stuff!
 # Which Best ML Body Tracker?
 - Mediapipe
 - PoseNet
-° OpenPose
-° Movenet
-° WrnchAI
-° VNect
-° XNect
-° FrankMocap
+- OpenPose
+- Movenet
+- WrnchAI
+- VNect
+- XNect
+- FrankMocap
 
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/videos
