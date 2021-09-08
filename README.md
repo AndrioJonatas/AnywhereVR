@@ -12,17 +12,28 @@ VR anywhere, streaming with basic stuff!
 - FrankMocap
 
 # What better app?
-​VorpX
-Virtual Desktop (VR PC)
-​Driver4VR
-​OVRdrop
-​SideQuest​
-Big Screen
-ALVR (Gear VR and Oculus Go/Quest)
-"Polygraphene ou JackD83"
-​RiftCat - iVRy (VR Cardboard +)
-​LIV TV VR
-VirtualHere
+- VorpX
+- Virtual Desktop (VR PC)
+- Driver4VR (WalkinVR)
+- OVRdrop
+- SideQuest
+- Big Screen
+- ALVR (Gear VR and Oculus Go/Quest) "Polygraphene ou JackD83"
+- RiftCat - iVRy (VR Cardboard +)
+- LIV TV VR
+- VirtualHere "Share USB Internet"
+
+# Best Mod's and Plugin's?
+- LibreVR (Oculus > HTC Vive)
+- GTFO VR Plugin
+- MotherVR
+- Vytek VR-Awesome - WebVR
+- Holoswitch
+- REXR
+- Half-Life-Alyx-novr (r57zone)
+- GTA5 Real MOD
+- Zerotier (APK)
+- KinectToVR
 
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/videos
