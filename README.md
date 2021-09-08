@@ -6,7 +6,13 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - Soon I will be showing you all about what I can do with these things.
 
 # Which Best ML Body Tracker?
+
+@ Basic
 - Mediapipe
+
+° Comments:
+
+@ Advanced
 - PoseNet
 - OpenPose
 - Movenet
@@ -14,6 +20,8 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - VNect
 - XNect
 - FrankMocap
+
+° Comments:
 
 # What is the best app?
 @ Basic
