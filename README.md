@@ -7,12 +7,12 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 # Which Best ML Body Tracker?
 
-**@ Basic**
+**Basic**
 - Mediapipe
 
-**° Comments:**
+**>> Comments:**
 
-**@ Advanced**
+**Advanced**
 - PoseNet
 - OpenPose
 - Movenet
@@ -21,10 +21,10 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - XNect
 - FrankMocap
 
-**° Comments:**
+**>> Comments:**
 
 # What is the best app?
-**@ Basic**
+**Basic**
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
 - Desktop Vision (Video Streaming)
@@ -36,9 +36,9 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - Big Screen
 - Opentrack
 
-**° Comments:**
+**>> Comments:**
 
-**@ Advanced**
+**Advanced**
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
@@ -48,17 +48,17 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - owoTrack
 - LIV TV VR
 
-**° Comments:**
+**>> Comments:**
 
 # What is the best Mod's and Plugin's?
-**@ Basic**
+**Basic**
 - KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
 
-**° Comments:**
+**>> Comments:**
 
-**@ Advanced**
+**Advanced**
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
 - GTFO VR Plugin
@@ -67,17 +67,17 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - LibreVR (Oculus > HTC Vive)
 - WebVR
 
-° **Comments:
+**>> Comments:**
 
 # What is the best VR Headset?
 
-@ **Basic
+**Basic**
 - tVR
 - Sdraw HMD
 
-° **Comments:
+**>> Comments:**
 
-@ **Advanced
+**Advanced**
 - Oculus Quest
 - Oculus Rift S
 - Valve Index
@@ -85,19 +85,19 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - Samsung Odyssey+
 - HTC Vive Cosmos
 
-° **Comments:
+**>> Comments:**
 
 # What is the best VR Hardware?
 
-@ **Basic
+**Basic**
 - Joy-Con
 
-° **Comments:
+**>> Comments:**
 
-@ **Advanced
+**Advanced**
 - Leap Motion
 
-° **Comments:
+**>> Comments:**
 
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
