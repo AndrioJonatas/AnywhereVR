@@ -1,5 +1,6 @@
 # AnywhereVR
-VR anywhere, streaming with basic stuff!
+VR anywhere,
+streaming with basic stuff!
 
 # Which Best ML Body Tracker?
 Mediapipe
