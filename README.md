@@ -61,6 +61,14 @@ VR anywhere, streaming with basic stuff!
 - Samsung Odyssey+
 - HTC Vive Cosmos
 
+# What is the best VR Hardware?
+
+° Basic
+Joy-Con
+
+° Advanced
+- Leap Motion
+
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/videos
 
