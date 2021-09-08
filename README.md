@@ -16,10 +16,10 @@ VR anywhere, streaming with basic stuff!
 - Driver4VR (WalkinVR)
 - RiftCat (VR Cardboard +)
 - iVRy (VR Cardboard +)
+- REXR VR
 - owoTrack
 - Opentrack
-- Zerotier
-- VirtualHere "Share USB Internet"
+
 
 ° Advanced
 - VorpX
@@ -32,18 +32,28 @@ VR anywhere, streaming with basic stuff!
 
 
 # What is the best Mod's and Plugin's?
-- LibreVR (Oculus > HTC Vive)
-- GTFO VR Plugin
-- MotherVR
-- Vytek VR-Awesome - WebVR
+° Basic
+- Zerotier (apk)
+- VirtualHere "Share USB Internet"
+
+° Advanced
 - Holoswitch
-- REXR
+- LibreVR (Oculus > HTC Vive)
+- KinectToVR
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
-- Zerotier (apk)
-- KinectToVR
+- GTFO VR Plugin
+- MotherVR
+- WebVR
+
 
 # What is the best VR Headset?
+
+° Basic
+- tVR
+- Sdraw HMD
+
+° Advanced
 - Oculus Quest
 - Oculus Rift S
 - Valve Index
