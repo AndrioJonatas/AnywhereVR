@@ -65,7 +65,7 @@ VR anywhere, streaming with basic stuff!
 # What is the best VR Hardware?
 
 ° Basic
-Joy-Con
+- Joy-Con
 
 ° Advanced
 - Leap Motion
