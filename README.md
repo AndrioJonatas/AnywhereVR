@@ -67,6 +67,8 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - tVR
 - Sdraw HMD
 
+° Comments:
+
 @ Advanced
 - Oculus Quest
 - Oculus Rift S
@@ -75,13 +77,19 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - Samsung Odyssey+
 - HTC Vive Cosmos
 
+° Comments:
+
 # What is the best VR Hardware?
 
 @ Basic
 - Joy-Con
 
+° Comments:
+
 @ Advanced
 - Leap Motion
+
+° Comments:
 
 # See what I've been doing:
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
