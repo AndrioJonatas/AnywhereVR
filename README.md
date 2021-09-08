@@ -2,8 +2,8 @@
 VR anywhere, streaming with basic stuff!
 
 # Which Best ML Body Tracker?
-° Mediapipe
-° PoseNet
+- Mediapipe
+- PoseNet
 ° OpenPose
 ° Movenet
 ° WrnchAI
