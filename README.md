@@ -1,8 +1,7 @@
 # AnywhereVR
 VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
-- All basic opinions are based on testing to play VR anywhere.
-
+- All basic opinions are based on my tests and research to play VR anywhere.
 - Soon I will be showing you all about what I can do with these things.
 
 # Which Best ML Body Tracker?
