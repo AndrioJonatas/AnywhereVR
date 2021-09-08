@@ -35,17 +35,17 @@ VR anywhere, streaming with basic stuff!
 
 # What is the best Mod's and Plugin's?
 ° Basic
+- KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
 
 ° Advanced
-- Holoswitch
-- LibreVR (Oculus > HTC Vive)
-- KinectToVR
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
 - GTFO VR Plugin
 - MotherVR
+- Holoswitch
+- LibreVR (Oculus > HTC Vive)
 - WebVR
 
 
