@@ -30,23 +30,25 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 
 ° Comments:
 
-@ #Advanced
+@ Advanced
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
 - SideQuest
-
 - ALVR (Gear VR and Oculus Go/Quest) "Polygraphene ou JackD83"
 - REXR VR
 - owoTrack
 - LIV TV VR
 
+° Comments:
 
 # What is the best Mod's and Plugin's?
 @ Basic
 - KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
+
+° Comments:
 
 @ Advanced
 - Half-Life-Alyx-novr (r57zone)
@@ -57,6 +59,7 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - LibreVR (Oculus > HTC Vive)
 - WebVR
 
+° Comments:
 
 # What is the best VR Headset?
 
