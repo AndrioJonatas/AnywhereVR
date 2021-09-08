@@ -7,10 +7,10 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 # Which Best ML Body Tracker?
 
-@ **Basic
+@ **Basic**
 - Mediapipe
 
-° **Comments:
+° **Comments:**
 
 @ **Advanced
 - PoseNet
