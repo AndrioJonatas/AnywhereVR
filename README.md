@@ -12,11 +12,11 @@ VR anywhere, streaming with basic stuff!
 - FrankMocap
 
 # What is the best app?
-- ° Basic
+° Basic
 - VorpX
 - Virtual Desktop (VR PC)
 - Driver4VR (WalkinVR)
-- ° Advanced
+° Advanced
 -  OVRdrop
 - SideQuest
 - Big Screen
