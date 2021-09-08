@@ -1,5 +1,5 @@
 # AnywhereVR
-VR anywhere, streaming with basic stuff! >>UPDATING<<
+VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 - All basic opinions are based on testing to play VR anywhere.
 
