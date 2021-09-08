@@ -3,7 +3,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 - All basic opinions are based on testing to play VR anywhere.
 
-- First of all allow me to introduce myself: My name is Andrio Jonatas a dreamer who, for not having access to the latest generations consoles, was able to create the first Virtual Lan House. Soon I will be showing you all about what I can do with these things.
+- Soon I will be showing you all about what I can do with these things.
 
 # Which Best ML Body Tracker?
 
