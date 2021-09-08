@@ -17,6 +17,6 @@ Youtube: https://www.youtube.com/c/KingsCloud/videos
 # Donations:
 Paypal: https://www.paypal.com/donate?hosted_button_id=8FSYCZCPJEGXQ
 
-"Project sponsored by Kings Cloud"
+"Project by Kings Cloud"
 CEO: Andrio Jonatas
 https://www.kingscloud.com.br/
