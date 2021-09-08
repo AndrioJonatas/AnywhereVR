@@ -16,7 +16,7 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - FrankMocap
 
 # What is the best app?
-* Basic
+@ Basic
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
 - Desktop Vision (Video Streaming)
