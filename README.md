@@ -11,7 +11,7 @@ VR anywhere, streaming with basic stuff!
 - XNect
 - FrankMocap
 
-# What better app?
+# What is the best app?
 - VorpX
 - Virtual Desktop (VR PC)
 - Driver4VR (WalkinVR)
