@@ -13,18 +13,23 @@ VR anywhere, streaming with basic stuff!
 
 # What is the best app?
 ° Basic
+- Driver4VR (WalkinVR)
+- RiftCat (VR Cardboard +)
+- iVRy (VR Cardboard +)
+- owoTrack
+- Opentrack
+- Zerotier
+- VirtualHere "Share USB Internet"
+
+° Advanced
 - VorpX
 - Virtual Desktop (VR PC)
-- Driver4VR (WalkinVR)
-- 
-° Advanced
--  OVRdrop
+- OVRdrop
 - SideQuest
 - Big Screen
 - ALVR (Gear VR and Oculus Go/Quest) "Polygraphene ou JackD83"
-- RiftCat - iVRy (VR Cardboard +)
 - LIV TV VR
-- VirtualHere "Share USB Internet"
+
 
 # What is the best Mod's and Plugin's?
 - LibreVR (Oculus > HTC Vive)
