@@ -7,12 +7,12 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 # Which Best ML Body Tracker?
 
-**Basic**
+**Basic:**
 - Mediapipe
 
 **>> Comments:**
 
-**Advanced**
+**Advanced:**
 - PoseNet
 - OpenPose
 - Movenet
@@ -24,7 +24,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 **>> Comments:**
 
 # What is the best app?
-**Basic**
+**Basic:**
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
 - Desktop Vision (Video Streaming)
@@ -38,7 +38,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 **>> Comments:**
 
-**Advanced**
+**Advanced:**
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
@@ -51,14 +51,14 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 **>> Comments:**
 
 # What is the best Mod's and Plugin's?
-**Basic**
+**Basic:**
 - KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
 
 **>> Comments:**
 
-**Advanced**
+**Advanced:**
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
 - GTFO VR Plugin
@@ -71,13 +71,13 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 # What is the best VR Headset?
 
-**Basic**
+**Basic:**
 - tVR
 - Sdraw HMD
 
 **>> Comments:**
 
-**Advanced**
+**Advanced:**
 - Oculus Quest
 - Oculus Rift S
 - Valve Index
@@ -89,12 +89,12 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 # What is the best VR Hardware?
 
-**Basic**
+**Basic:**
 - Joy-Con
 
 **>> Comments:**
 
-**Advanced**
+**Advanced:**
 - Leap Motion
 
 **>> Comments:**
