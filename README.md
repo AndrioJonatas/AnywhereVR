@@ -23,7 +23,7 @@ VR anywhere, streaming with basic stuff!
 - LIV TV VR
 - VirtualHere "Share USB Internet"
 
-# Best Mod's and Plugin's?
+# What is the best Mod's and Plugin's?
 - LibreVR (Oculus > HTC Vive)
 - GTFO VR Plugin
 - MotherVR
