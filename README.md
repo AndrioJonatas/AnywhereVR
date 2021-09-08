@@ -16,7 +16,7 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - FrankMocap
 
 # What is the best app?
-° Basic
+* Basic
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
 - Desktop Vision (Video Streaming)
@@ -30,7 +30,7 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 - Opentrack
 
 
-° Advanced
+* Advanced
 - VorpX
 - Virtual Desktop (VR PC)
 - OVRdrop
@@ -41,12 +41,12 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 
 
 # What is the best Mod's and Plugin's?
-° Basic
+* Basic
 - KinectToVR
 - Zerotier (apk)
 - VirtualHere "Share USB"
 
-° Advanced
+* Advanced
 - Half-Life-Alyx-novr (r57zone)
 - GTA5 Real MOD
 - GTFO VR Plugin
@@ -58,11 +58,11 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 
 # What is the best VR Headset?
 
-° Basic
+* Basic
 - tVR
 - Sdraw HMD
 
-° Advanced
+* Advanced
 - Oculus Quest
 - Oculus Rift S
 - Valve Index
@@ -72,10 +72,10 @@ VR anywhere, streaming with basic stuff! >>UPDATING<<
 
 # What is the best VR Hardware?
 
-° Basic
+* Basic
 - Joy-Con
 
-° Advanced
+* Advanced
 - Leap Motion
 
 # See what I've been doing:
