@@ -34,7 +34,7 @@ VR anywhere, streaming with basic stuff!
 # What is the best Mod's and Plugin's?
 ° Basic
 - Zerotier (apk)
-- VirtualHere "Share USB Internet"
+- VirtualHere "Share USB"
 
 ° Advanced
 - Holoswitch
