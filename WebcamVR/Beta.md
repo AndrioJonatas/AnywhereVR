@@ -1,4 +1,4 @@
-Project Beta Code
+# Project WebcamVR Beta Code #
 
 - Python - "https://www.python.org/downloads/"
 - Python-osc - pip install python-osc
