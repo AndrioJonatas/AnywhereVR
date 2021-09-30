@@ -8,7 +8,8 @@ Project Beta Code
 
 **Python**
 ______________________________________________________
-"- main.py"
+- main.py
+
 import pose_module as pm
 
 
