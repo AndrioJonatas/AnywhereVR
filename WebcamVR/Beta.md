@@ -6,16 +6,16 @@ Project Beta Code
 - VMT "Manual VirtualMotionTracker" - 
 
 
-- Python
+**Python**
 
 
 
-- Python-osc
+**Python-osc**
 
 
 
-- MediaPipe Pose
+**MediaPipe Pose**
 
 
 
-- VMT "Manual VirtualMotionTracker"
+**VMT "Manual VirtualMotionTracker"**
