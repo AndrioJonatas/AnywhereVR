@@ -10,7 +10,6 @@
 **Python**
 _____________________
 - main.py (Option 1)
-- 
 _____________________
     import pose_module as pm
 
@@ -24,7 +23,6 @@ _____________________
 _____________________
 
 - main.py (Option 2)
-
 _____________________
 
     import pose_module as pm
