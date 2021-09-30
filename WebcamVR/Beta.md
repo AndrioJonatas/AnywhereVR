@@ -153,7 +153,7 @@ def create_virtual_landmark(position_data):
 
     return position_data
 
-def fps_count(p_time):
+    def fps_count(p_time):
     c_time = time.time()
     fps = 1 / (c_time - p_time)
     return int(fps), c_time
