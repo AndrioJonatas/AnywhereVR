@@ -14,40 +14,40 @@ _____________________
 import pose_module as pm
 
 
-def main(cam):
+    def main(cam):
     # Change parameter to change input(Camera or videos)
     pm.camera_input(int(cam))
 
 
-main(input("Please type your camera id."))
+    main(input("Please type your camera id."))
 
 _____________________
 - main.py (Option 2)
 
-import pose_module as pm
+    import pose_module as pm
 
 
-def main():
+    def main():
     # Change parameter to change input(Camera or videos)
     pm.camera_input("http://192.168.0.0:8080/video")
 
 
-main()
+    main()
 _____________________
 
 **Python-osc**
 
 _____________________
 
-from pythonosc import udp_client
+    from pythonosc import udp_client
 
-"Set OSC client" Title
+    "Set OSC client" Title
 
-client = udp_client.SimpleUDPClient('127.0.0.1', 39570)
+    client = udp_client.SimpleUDPClient('127.0.0.1', 39570)
 
 
 
-def osc_send2(index, enable, timeoffset, px, py, pz, qx, qy, qz, qw, serial):
+    def osc_send2(index, enable, timeoffset, px, py, pz, qx, qy, qz, qw, serial):
     print(f"{index}, {enable}, {timeoffset}, {px}, {py}, {pz}, {qx}, {qy}, {qz}, {qw}, {serial}")
     client.send_message("/VMT/Joint/Driver", [index, enable, timeoffset, px, py, pz, qx, qy, qz, qw, serial]
     
@@ -55,15 +55,15 @@ _____________________
 
 **MediaPipe Pose**
 
-import cv2
-import time
-import mediapipe as mp
-import math_module as mm
-import osc_module as osc
+    import cv2
+    import time
+    import mediapipe as mp
+    import math_module as mm
+    import osc_module as osc
 
 
-pose = mp.solutions.pose.Pose(False, 1, True, 0.5, 0.5)
-POSE_LANDMARK = [
+    pose = mp.solutions.pose.Pose(False, 1, True, 0.5, 0.5)
+    POSE_LANDMARK = [
     (0, "MPT-Head", (0, 7)),
     (32, "MPT-neck", (32, 0)),
     (11, "MPT-leftShoulder", (11, 13)),
@@ -77,10 +77,10 @@ POSE_LANDMARK = [
     (26, "MPT-rightKnee", (26, 28)),
     (27, "MPT-leftFoot", (27, 29)),
     (28, "MPT-rightFoot", (28, 30))
-]
+    ]
 
 
-def camera_input(input_data):
+    def camera_input(input_data):
     p_time = 0
     cap = cv2.VideoCapture(input_data)
     while True:
