@@ -1,4 +1,4 @@
-# Project WebcamVR Beta Code #
+# Project WebcamVR Beta Code # "Soon I will upload the .py files and launch Windows GUI with cx_Freeze or pyinstaller"
 
 - Python - "https://www.python.org/downloads/"
 - Python-osc - pip install python-osc
