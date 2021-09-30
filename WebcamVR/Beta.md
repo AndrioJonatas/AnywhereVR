@@ -11,7 +11,7 @@
 _____________________
 - main.py (Option 1)
 
-import pose_module as pm
+    import pose_module as pm
 
 
     def main(cam):
@@ -100,7 +100,7 @@ _____________________
     cap.destroyAllWindows()
 
 
-def pose_detection(frame):
+    def pose_detection(frame):
     frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     results = pose.process(frame_rgb)
     try:
@@ -110,14 +110,14 @@ def pose_detection(frame):
         pass
 
 
-def get_position_data(landmarks):
+    def get_position_data(landmarks):
     position_data = []
     for i in range(0, 32):
         position_data.append([i, landmarks[i].x, landmarks[i].y - 0.8, landmarks[i].z])
     return position_data
 
 
-def conv_data_openvr(position_data):
+    def conv_data_openvr(position_data):
     device_data = []
     for index, device_name, comp_pos in POSE_LANDMARK:
         device_data.append(
@@ -126,7 +126,7 @@ def conv_data_openvr(position_data):
     return device_data
 
 
-def create_virtual_landmark(position_data):
+    def create_virtual_landmark(position_data):
     # neck
     x = (position_data[11][1] + position_data[12][1]) / 2
     y = (position_data[11][2] + position_data[12][2]) / 2
