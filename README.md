@@ -1,6 +1,9 @@
 # AnywhereVR
 VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
+# Currently focused on the WebcamVR project: #
+https://github.com/AndrioJonatas/AnywhereVR/blob/main/WebcamVR/Beta.md
+
 - All basic opinions are based on my tests and research to play VR anywhere.
 - I'll be showing everyone what I can do with these things.
 
