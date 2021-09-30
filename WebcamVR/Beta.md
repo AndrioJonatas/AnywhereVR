@@ -10,25 +10,28 @@
 **Python**
 _____________________
 - main.py (Option 1)
-
+- 
+_____________________
     import pose_module as pm
 
 
     def main(cam):
-    #Change parameter to change input(Camera or videos)
+    # Change parameter to change input(Camera or videos)
     pm.camera_input(int(cam))
 
 
     main(input("Please type your camera id."))
+_____________________
+
+- main.py (Option 2)
 
 _____________________
-- main.py (Option 2)
 
     import pose_module as pm
 
 
     def main():
-    #Change parameter to change input(Camera or videos)
+    # Change parameter to change input(Camera or videos)
     pm.camera_input("http://192.168.0.0:8080/video")
 
 
