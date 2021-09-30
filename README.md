@@ -1,9 +1,9 @@
 # Currently focused on the WebcamVR project: #
+- Track the whole body with hand movement with control and move the head with virtual HMD.
+
 https://github.com/AndrioJonatas/AnywhereVR/blob/main/WebcamVR/Beta.md
 
 Officially will stay here: https://github.com/AndrioJonatas/WebcamVR
-
-- Track the whole body with hand movement with control and move the head with virtual HMD.
 
 # AnywhereVR
 VR anywhere, streaming with basic stuff! **>>UPDATING<<**
