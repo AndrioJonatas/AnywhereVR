@@ -28,6 +28,7 @@ _____________________
 from pythonosc import udp_client
 
 "Set OSC client" Title
+
 client = udp_client.SimpleUDPClient('127.0.0.1', 39570)
 
 
