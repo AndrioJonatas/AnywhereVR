@@ -3,7 +3,7 @@
 
 https://github.com/AndrioJonatas/AnywhereVR/blob/main/WebcamVR/Beta.md
 
-Officially will stay here: https://github.com/AndrioJonatas/WebcamVR
+Officially will stay here: https://github.com/AndrioJonatas/WebcamVR SteamVR
 
 # AnywhereVR
 VR anywhere, streaming with basic stuff! **>>UPDATING<<**
