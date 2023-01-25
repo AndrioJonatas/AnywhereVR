@@ -4,7 +4,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 - All basic opinions are based on my tests and research to play VR anywhere.
 - I'll be showing everyone what I can do with these things.
 
-# Which Best ML Body Tracker?
+# What is the best AI body tracker?
 
 **Basic:**
 - Mediapipe
@@ -22,7 +22,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 **>> Comments:**
 
-# What is the best app?
+# Best Apps?
 **Basic:**
 - Parsec (Video Streaming)
 - Reemo (Video Streaming)
@@ -78,6 +78,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 **Advanced:**
 - Oculus Quest
+- Pico
 - Oculus Rift S
 - Valve Index
 - Sony PlayStation VR
@@ -90,6 +91,8 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 
 **Basic:**
 - Joy-Con
+- PSMove
+- Wiimote
 
 **>> Comments:**
 
@@ -102,7 +105,7 @@ VR anywhere, streaming with basic stuff! **>>UPDATING<<**
 **Currently on the WebcamVR project:**
 - Track head, hands and body with camera anywhere.
 https://github.com/AndrioJonatas/AnywhereVR/blob/main/WebcamVR/Beta.md 
-Officially, the repository will stay here: https://github.com/AndrioJonatas/WebcamVR SteamVR
+- Officially, the repository will stay here: https://github.com/AndrioJonatas/WebcamVR SteamVR
 
 Youtube: https://www.youtube.com/c/KingsCloud/playlists "VR Cloud"
 
