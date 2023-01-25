@@ -1,10 +1,10 @@
 # AnywhereVR
 VR anywhere, streaming with basic stuff!
 
-- Profile 1 - 2D glasses + Controls + Led:
-- Profile 2 - Without glasses + Sensor + Controls:
-- Profile 3 - Wls:
-- Profile 4 - Wiols:
+- Profile 1 - 6DOF 2D glasses + Controls/Led (Use your phone)
+- Profile 2 - Without glasses + Sensor or Led/Controls.
+- Profile 3 - Cam + Printed Markers.
+- Profile 4 - AR Glasses + IMU Sensor + Smartwatch Android.
 
 # See what I've been doing:
 **Currently on the WebcamVR project:**
