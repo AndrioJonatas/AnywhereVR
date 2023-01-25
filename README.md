@@ -1,8 +1,10 @@
 # AnywhereVR
-VR anywhere, streaming with basic stuff! **>>UPDATING<<**
+VR anywhere, streaming with basic stuff!
 
-- All basic opinions are based on my tests and research to play VR anywhere.
-- I'll be showing everyone what I can do with these things.
+- Profile 1 - 2D glasses + Controls + Led:
+- Profile 2 - Without glasses + Sensor + Controls:
+- Profile 3 - Wls:
+- Profile 4 - Wiols:
 
 # See what I've been doing:
 **Currently on the WebcamVR project:**
