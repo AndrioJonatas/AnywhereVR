@@ -2,7 +2,7 @@
 VR anywhere, streaming with basic stuff!
 
 - Profile 1 6DOF - Without glasses + Sensor or Led + Controls (Use your PC) = $120
-- Profile 2 6DOF - Cam + Printed Markers + Controls (Use your PC or Cloud *Kings Cloud*)= $100
+- Profile 2 6DOF - Cam + Printed Markers + Controls (Use your PC or Cloud **Kings Cloud**)= $100
 - Profile 3 6DOF - 6DOF 2D glasses + Controls/Led (Use your phone Android or iPhone) = $100
 - Profile 4 6DOF - AR Glasses + IMU Sensor + Controls + (User your Smartwatch Android) = $100
 
